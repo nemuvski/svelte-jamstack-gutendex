@@ -1,0 +1,13 @@
+:root {
+  --theme-color--text: #31302e;
+  --theme-color--bg: #fdfcfa;
+
+  font-size: 16px;
+  font-family: serif;
+}
+
+body {
+  color: var(--theme-color--text);
+  background-color: var(--theme-color--bg);
+  font-size: 1rem;
+}
