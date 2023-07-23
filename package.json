@@ -32,6 +32,6 @@
     "vite": "^4.4.2"
   },
   "dependencies": {
-    "nacss": "^2.0.0"
+    "nacss": "^2.0.1"
   }
 }
