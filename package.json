@@ -15,21 +15,21 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^2.0.2",
-    "@sveltejs/kit": "^1.22.1",
-    "@types/node": "^20.4.1",
-    "@typescript-eslint/eslint-plugin": "^6.0.0",
-    "@typescript-eslint/parser": "^6.0.0",
-    "eslint": "^8.44.0",
+    "@sveltejs/kit": "^1.22.3",
+    "@types/node": "^20.4.4",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@typescript-eslint/parser": "^6.1.0",
+    "eslint": "^8.45.0",
     "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-svelte": "^2.32.2",
-    "prettier": "^2.8.8",
-    "prettier-plugin-svelte": "^2.10.1",
-    "sass": "^1.63.6",
-    "svelte": "^4.0.5",
-    "svelte-check": "^3.4.5",
+    "eslint-plugin-svelte": "^2.32.4",
+    "prettier": "^3.0.0",
+    "prettier-plugin-svelte": "^3.0.0",
+    "sass": "^1.64.1",
+    "svelte": "^4.1.1",
+    "svelte-check": "^3.4.6",
     "tslib": "^2.6.0",
     "typescript": "^5.1.6",
-    "vite": "^4.4.2"
+    "vite": "^4.4.6"
   },
   "dependencies": {
     "nacss": "^2.0.1"
