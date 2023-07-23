@@ -1,10 +1,8 @@
 # Svelte Jamstack Gutendex
 
-Svelte で [*Gutendex*](https://gutendex.com/) をデータソースとした Jamstack 構成のサイトを作成したもの。
+Svelte で [Gutendex](https://gutendex.com/) をデータソースとした Jamstack 構成のサイトを作成したもの。
 
 Gutendex提供のREST APIを用いて、データの取得を行う。
-
-
 
 ## 確認方法
 
@@ -12,8 +10,6 @@ Gutendex提供のREST APIを用いて、データの取得を行う。
 npm install
 npm run dev
 ```
-
-
 
 ## ビルド
 
